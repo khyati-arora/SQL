@@ -38,6 +38,12 @@ Products Table :
 <img width="518" alt="image" src="https://github.com/khyati-arora/SQL/assets/174774328/9c788a71-ccf6-4915-b527-038c94ab86b8">
 
 
+### Result Problem 2 :
+
+<img width="747" alt="image" src="https://github.com/user-attachments/assets/230b3194-8ee4-4a2f-a85e-493dc52bbd1a">
+
+
+
 
 
 
